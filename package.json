@@ -1,0 +1,9 @@
+{
+  "name": "mangaverse",
+  "version": "1.0.0",
+  "description": "Biblioteca digital de mangás desenvolvido com Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
