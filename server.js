@@ -79,7 +79,7 @@ function layout(active, content) {
 
 function homePage() {
   const featured = mangas.slice(0, 5).map(mangaCard).join("");
-  return layout("home", `<main><section class="hero"><div class="wrap"><span class="eyebrow">SEU PRÓXIMO UNIVERSO COMEÇA AQUI</span>
+  return layout("home", `<main><section class="hero"><div class="wrap"><span class="eyebrow">EXPLORE UM UNIVERSO DE HISTÓRIAS</span>
     <h1>HISTÓRIAS QUE<br>VÃO ALÉM <span>DAS PÁGINAS.</span></h1>
     <p>Explore mundos, conheça personagens inesquecíveis e descubra sua próxima leitura. O MangaVerse reúne histórias para todos os tipos de leitores.</p>
     <a class="button" href="/catalogo">VER CATÁLOGO COMPLETO ↗</a></div></section>
